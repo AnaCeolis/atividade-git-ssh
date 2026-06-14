@@ -3,3 +3,4 @@ Disciplina: Gerência de Configuração e Controle de Versão
 Apredendo sobre Git e GitHub na prática, a partir desta atividade.
 Estou aprendendo a utilizar Git, GitHub e SSH.
 Esta linha foi adicionada diretamente pelo GitHub.
+Esta alteração foi realizada localmente.
